@@ -1,0 +1,22 @@
+C:\Users\Terry\Documents\c#\library_management_system\library_management_system\bin\Debug\library_management_system.exe.config
+C:\Users\Terry\Documents\c#\library_management_system\library_management_system\bin\Debug\library_management_system.exe
+C:\Users\Terry\Documents\c#\library_management_system\library_management_system\bin\Debug\library_management_system.pdb
+C:\Users\Terry\Documents\c#\library_management_system\library_management_system\obj\Debug\library_management_system.csprojResolveAssemblyReference.cache
+C:\Users\Terry\Documents\c#\library_management_system\library_management_system\obj\Debug\library_management_system.Form1.resources
+C:\Users\Terry\Documents\c#\library_management_system\library_management_system\obj\Debug\library_management_system.Properties.Resources.resources
+C:\Users\Terry\Documents\c#\library_management_system\library_management_system\obj\Debug\library_management_system.csproj.GenerateResource.Cache
+C:\Users\Terry\Documents\c#\library_management_system\library_management_system\obj\Debug\library_management_system.exe
+C:\Users\Terry\Documents\c#\library_management_system\library_management_system\obj\Debug\library_management_system.pdb
+C:\Users\Terry\Documents\c#\library_management_system\library_management_system\obj\Debug\library_management_system.admin.resources
+C:\Users\Aystages Njovana\Documents\C# projects\library_management_system\library_management_system\library_management_system\bin\Debug\library_management_system.exe.config
+C:\Users\Aystages Njovana\Documents\C# projects\library_management_system\library_management_system\library_management_system\bin\Debug\library_management_system.exe
+C:\Users\Aystages Njovana\Documents\C# projects\library_management_system\library_management_system\library_management_system\bin\Debug\library_management_system.pdb
+C:\Users\Aystages Njovana\Documents\C# projects\library_management_system\library_management_system\library_management_system\obj\Debug\library_management_system.csproj.AssemblyReference.cache
+C:\Users\Aystages Njovana\Documents\C# projects\library_management_system\library_management_system\library_management_system\obj\Debug\library_management_system.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aystages Njovana\Documents\C# projects\library_management_system\library_management_system\library_management_system\obj\Debug\library_management_system.Form1.resources
+C:\Users\Aystages Njovana\Documents\C# projects\library_management_system\library_management_system\library_management_system\obj\Debug\library_management_system.admin.resources
+C:\Users\Aystages Njovana\Documents\C# projects\library_management_system\library_management_system\library_management_system\obj\Debug\library_management_system.Properties.Resources.resources
+C:\Users\Aystages Njovana\Documents\C# projects\library_management_system\library_management_system\library_management_system\obj\Debug\library_management_system.csproj.GenerateResource.cache
+C:\Users\Aystages Njovana\Documents\C# projects\library_management_system\library_management_system\library_management_system\obj\Debug\library_management_system.csproj.CoreCompileInputs.cache
+C:\Users\Aystages Njovana\Documents\C# projects\library_management_system\library_management_system\library_management_system\obj\Debug\library_management_system.exe
+C:\Users\Aystages Njovana\Documents\C# projects\library_management_system\library_management_system\library_management_system\obj\Debug\library_management_system.pdb
